@@ -1,4 +1,4 @@
-name: inventory_newuu
+name: devit_uz
 
 on:
   workflow_dispatch:
